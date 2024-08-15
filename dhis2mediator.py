@@ -17,7 +17,7 @@ DHIS2_USERNAME = os.getenv('DHIS2_USERNAME')
 DHIS2_PASSWORD = os.getenv('DHIS2_PASSWORD')
 DATASET_ID = os.getenv('DATASET_ID') #elmis Indicators
 ORG_UNIT_ID = os.getenv('ORG_UNIT_ID') # AHF
-PERIOD = '20240728'  # Example period
+PERIOD = '202410'  # Example period
 TOKEN_URL = os.getenv('TOKEN_URL')
 
 
